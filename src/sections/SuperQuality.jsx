@@ -10,10 +10,9 @@ const SuperQuality = () => {
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
           We Provide You
           <span className="text-coral-red"> Super </span>
-          <span className="text-coral-red"> Quality </span>
-          <span className="text-coral-red inline-block mt-3"></span> Shoes      
+          <span className="text-coral-red"> Quality </span> Shoes 
         </h2>
-        <p className="font-montserrat text-slate-grey text-lg leading-8 w-full mt-20 gap-16">Discover stylish Nike arrivals, quality comfort, and innovation for your active life</p>
+        <p className="mt-4 lg:max-w-lg info-text">Ensuring premium comfort and style, our meticulously crafted footware is designed to elevate your experience, providing you with unmatched quality innovation, and a touch of elegance</p>
         <Button label = 'View details'/>
       </div>
 
